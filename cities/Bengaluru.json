@@ -1213,5 +1213,545 @@
     "lineColor": "#800080",
     "phase": "2",
     "status": "uc"
+  },
+  {
+    "stationName": "JP Nagar Phase 4",
+    "latitude": "12.9098098",
+    "longitude": "77.6000325",
+    "line": "Orange",
+    "lineColor": "#FFA500",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "JP Nagar Phase 5",
+    "latitude": "12.9063341",
+    "longitude": "77.5863148",
+    "line": "Orange",
+    "lineColor": "#FFA501",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "Jaya Prakash Nagar",
+    "latitude": "12.9064597",
+    "longitude": "77.5740737",
+    "line": "Orange",
+    "lineColor": "#FFA502",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "Kadirenahalli Cross",
+    "latitude": "12.9134837",
+    "longitude": "77.5663184",
+    "line": "Orange",
+    "lineColor": "#FFA503",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "Kamakya Bus Depot",
+    "latitude": "12.9236745",
+    "longitude": "77.5541413",
+    "line": "Orange",
+    "lineColor": "#FFA504",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "Hosakerahalli Cross",
+    "latitude": "12.9289365",
+    "longitude": "77.5452052",
+    "line": "Orange",
+    "lineColor": "#FFA505",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "PES Institute",
+    "latitude": "12.9380387",
+    "longitude": "77.5336198",
+    "line": "Orange",
+    "lineColor": "#FFA506",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "Mysuru Road",
+    "latitude": "12.9459564",
+    "longitude": "77.527283",
+    "line": "Orange",
+    "lineColor": "#FFA507",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "Nagarbhavi Circle",
+    "latitude": "12.9576652",
+    "longitude": "77.5192825",
+    "line": "Orange",
+    "lineColor": "#FFA508",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "Vinayaka Layout",
+    "latitude": "12.960642",
+    "longitude": "77.5078901",
+    "line": "Orange",
+    "lineColor": "#FFA509",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "Ambedkar Institute of Engineering",
+    "latitude": "12.9678933",
+    "longitude": "77.5057013",
+    "line": "Orange",
+    "lineColor": "#FFA510",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "BDA Complex",
+    "latitude": "12.9803327",
+    "longitude": "77.5109027",
+    "line": "Orange",
+    "lineColor": "#FFA511",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "Sumanahalli Cross",
+    "latitude": "12.9881064",
+    "longitude": "77.5199472",
+    "line": "Orange",
+    "lineColor": "#FFA512",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "Chowdeshwari Nagara",
+    "latitude": "12.9971185",
+    "longitude": "77.5233167",
+    "line": "Orange",
+    "lineColor": "#FFA513",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "Freedom Fighters Cross",
+    "latitude": "13.0059424",
+    "longitude": "77.5267491",
+    "line": "Orange",
+    "lineColor": "#FFA514",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "Kanteerava Studio",
+    "latitude": "13.0216051",
+    "longitude": "77.5326321",
+    "line": "Orange",
+    "lineColor": "#FFA515",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "Peenya",
+    "latitude": "13.0314066",
+    "longitude": "77.5332459",
+    "line": "Orange",
+    "lineColor": "#FFA516",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "Bahubhali Nagara",
+    "latitude": "13.0416964",
+    "longitude": "77.5470437",
+    "line": "Orange",
+    "lineColor": "#FFA517",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "BEL Circle",
+    "latitude": "13.0437485",
+    "longitude": "77.5584728",
+    "line": "Orange",
+    "lineColor": "#FFA518",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "Patelappa Layout",
+    "latitude": "13.0473607",
+    "longitude": "77.5748759",
+    "line": "Orange",
+    "lineColor": "#FFA519",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "Hebbala",
+    "latitude": "13.0425488",
+    "longitude": "77.5921943",
+    "line": "Orange",
+    "lineColor": "#FFA520",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "Kempapura",
+    "latitude": "13.0434944",
+    "longitude": "77.6039137",
+    "line": "Orange",
+    "lineColor": "#FFA521",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "Hosahalli",
+    "latitude": "12.9750286",
+    "longitude": "77.548237",
+    "line": "Orange",
+    "lineColor": "#FFA522",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "KHB Colony",
+    "latitude": "12.9803557",
+    "longitude": "77.5375005",
+    "line": "Orange",
+    "lineColor": "#FFA523",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "Vinayaka Nagara",
+    "latitude": "12.9853744",
+    "longitude": "77.5249064",
+    "line": "Orange",
+    "lineColor": "#FFA524",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "Sumanahalli Cross",
+    "latitude": "12.9881389",
+    "longitude": "77.5174015",
+    "line": "Orange",
+    "lineColor": "#FFA525",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "Sunkadakatte",
+    "latitude": "12.9898995",
+    "longitude": "77.5053029",
+    "line": "Orange",
+    "lineColor": "#FFA526",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "Herohalli",
+    "latitude": "12.9866087",
+    "longitude": "77.4900255",
+    "line": "Orange",
+    "lineColor": "#FFA527",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "Byadarahalli",
+    "latitude": "12.9856916",
+    "longitude": "77.4791927",
+    "line": "Orange",
+    "lineColor": "#FFA528",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "Forest Gate",
+    "latitude": "12.9916007",
+    "longitude": "77.4646027",
+    "line": "Orange",
+    "lineColor": "#FFA529",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "Kadabagere",
+    "latitude": "12.9885052",
+    "longitude": "77.4485493",
+    "line": "Orange",
+    "lineColor": "#FFA530",
+    "phase": "3",
+    "status": "pl"
+  },
+  {
+    "stationName": "Sarjapur",
+    "latitude": "12.860877",
+    "longitude": "77.7831576",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
+  },
+  {
+    "stationName": "Sompura",
+    "latitude": "12.8721584",
+    "longitude": "77.7664605",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
+  },
+  {
+    "stationName": "Dommasandra Circle",
+    "latitude": "12.8831983",
+    "longitude": "77.7526175",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
+  },
+  {
+    "stationName": "Muthnallur Cross",
+    "latitude": "12.8873759",
+    "longitude": "77.7386149",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
+  },
+  {
+    "stationName": "Sulikunte",
+    "latitude": "12.8915574",
+    "longitude": "77.7295287",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
+  },
+  {
+    "stationName": "Kodathi",
+    "latitude": "12.8964142",
+    "longitude": "77.7207375",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
+  },
+  {
+    "stationName": "Ambedkar Nagara",
+    "latitude": "12.8993051",
+    "longitude": "77.7126049",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
+  },
+  {
+    "stationName": "Carmelaram",
+    "latitude": "12.9033341",
+    "longitude": "77.7043324",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
+  },
+  {
+    "stationName": "Doddakanalli Gate",
+    "latitude": "12.9071192",
+    "longitude": "77.6959301",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
+  },
+  {
+    "stationName": "Kaikondrahalli",
+    "latitude": "12.910939",
+    "longitude": "77.6841038",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
+  },
+  {
+    "stationName": "Bellandur Gate",
+    "latitude": "12.9183883",
+    "longitude": "77.6703603",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
+  },
+  {
+    "stationName": "Ibbalur",
+    "latitude": "12.9210948",
+    "longitude": "77.663041",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
+  },
+  {
+    "stationName": "Agara",
+    "latitude": "12.9243467",
+    "longitude": "77.6493305",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
+  },
+  {
+    "stationName": "Jakkasandra",
+    "latitude": "12.9247859",
+    "longitude": "77.6379547",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
+  },
+  {
+    "stationName": "Koramangala",
+    "latitude": "12.9246197",
+    "longitude": "77.6278634",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
+  },
+  {
+    "stationName": "St. John's Hospital",
+    "latitude": "12.9283033",
+    "longitude": "77.6187508",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
+  },
+  {
+    "stationName": "Sudduguntepalya",
+    "latitude": "12.9348808",
+    "longitude": "77.6097017",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
+  },
+  {
+    "stationName": "Dairy Circle",
+    "latitude": "12.9372346",
+    "longitude": "77.6024057",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
+  },
+  {
+    "stationName": "NIMHANS",
+    "latitude": "12.9459211",
+    "longitude": "77.5956082",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
+  },
+  {
+    "stationName": "Wilson Garden",
+    "latitude": "12.9515047",
+    "longitude": "77.5912641",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
+  },
+  {
+    "stationName": "Town Hall",
+    "latitude": "12.9628066",
+    "longitude": "77.5849669",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
+  },
+  {
+    "stationName": "Central College",
+    "latitude": "12.9746681",
+    "longitude": "77.5866196",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
+  },
+  {
+    "stationName": "Basaveshwara Circle",
+    "latitude": "12.9842127",
+    "longitude": "77.5866182",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
+  },
+  {
+    "stationName": "Cunningham Road",
+    "latitude": "12.9935798",
+    "longitude": "77.5853669",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
+  },
+  {
+    "stationName": "Palace Guttalahalli",
+    "latitude": "13.0028501",
+    "longitude": "77.5842457",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
+  },
+  {
+    "stationName": "Mekhri Circle",
+    "latitude": "13.0140348",
+    "longitude": "77.5843239",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
+  },
+  {
+    "stationName": "Gangenahalli",
+    "latitude": "13.0243522",
+    "longitude": "77.5850531",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
+  },
+  {
+    "stationName": "Veterinery College",
+    "latitude": "13.0337381",
+    "longitude": "77.5886971",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
+  },
+  {
+    "stationName": "Hebbal",
+    "latitude": "13.0421781",
+    "longitude": "77.59092",
+    "line": "Red",
+    "lineColor": "#C41E3A",
+    "phase": "3A",
+    "status": "pl"
   }
 ]
