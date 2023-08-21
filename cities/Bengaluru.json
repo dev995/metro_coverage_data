@@ -1,0 +1,1217 @@
+[
+  {
+    "stationName": "Central Silk Board",
+    "latitude": "12.9174453",
+    "longitude": "77.6233675",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2A",
+    "status": "uc"
+  },
+  {
+    "stationName": "HSR Layout",
+    "latitude": "12.9164672",
+    "longitude": "77.6330593",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2A",
+    "status": "uc"
+  },
+  {
+    "stationName": "Agara Lake",
+    "latitude": "12.920791",
+    "longitude": "77.6437319",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2A",
+    "status": "uc"
+  },
+  {
+    "stationName": "Ibbaluru",
+    "latitude": "12.9211679",
+    "longitude": "77.6630477",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2A",
+    "status": "uc"
+  },
+  {
+    "stationName": "Bellandur",
+    "latitude": "12.9276914",
+    "longitude": "77.6801937",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2A",
+    "status": "uc"
+  },
+  {
+    "stationName": "Kadubeesanahalli",
+    "latitude": "12.9319543",
+    "longitude": "77.6872831",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2A",
+    "status": "uc"
+  },
+  {
+    "stationName": "Kodibeesanahalli",
+    "latitude": "12.9445228",
+    "longitude": "77.6979238",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2A",
+    "status": "uc"
+  },
+  {
+    "stationName": "Marthahalli",
+    "latitude": "12.9579796",
+    "longitude": "77.7012454",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2A",
+    "status": "uc"
+  },
+  {
+    "stationName": "ISRO",
+    "latitude": "12.9690368",
+    "longitude": "77.7011184",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2A",
+    "status": "uc"
+  },
+  {
+    "stationName": "Doddanekundi",
+    "latitude": "12.9756588",
+    "longitude": "77.6970849",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2A",
+    "status": "uc"
+  },
+  {
+    "stationName": "DRDO Sports Complex",
+    "latitude": "12.9856993",
+    "longitude": "77.6908883",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2A",
+    "status": "uc"
+  },
+  {
+    "stationName": "Mahadevapura",
+    "latitude": "12.9937771",
+    "longitude": "77.6855187",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2A",
+    "status": "uc"
+  },
+  {
+    "stationName": "Krishnarajapuram",
+    "latitude": "13.0001292",
+    "longitude": "77.6775377",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2A",
+    "status": "uc"
+  },
+  {
+    "stationName": "Kasturinagara",
+    "latitude": "13.0078096",
+    "longitude": "77.6626458",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2B",
+    "status": "uc"
+  },
+  {
+    "stationName": "Horamavu",
+    "latitude": "13.0171042",
+    "longitude": "77.6601071",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2B",
+    "status": "uc"
+  },
+  {
+    "stationName": "HRBR Layout",
+    "latitude": "13.022618",
+    "longitude": "77.6472283",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2B",
+    "status": "uc"
+  },
+  {
+    "stationName": "Kalyan Nagar",
+    "latitude": "13.0261172",
+    "longitude": "77.6383808",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2B",
+    "status": "uc"
+  },
+  {
+    "stationName": "HBR Layout",
+    "latitude": "13.0325812",
+    "longitude": "77.6297839",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2B",
+    "status": "uc"
+  },
+  {
+    "stationName": "Nagawara",
+    "latitude": "13.0400614",
+    "longitude": "77.6244154",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2B",
+    "status": "uc"
+  },
+  {
+    "stationName": "Veeranapalya",
+    "latitude": "13.0411485",
+    "longitude": "77.6182646",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2B",
+    "status": "uc"
+  },
+  {
+    "stationName": "Kempapura",
+    "latitude": "13.0436735",
+    "longitude": "77.6039072",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2B",
+    "status": "uc"
+  },
+  {
+    "stationName": "Hebbal",
+    "latitude": "13.0437459",
+    "longitude": "77.5932326",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2B",
+    "status": "uc"
+  },
+  {
+    "stationName": "Kodigehalli",
+    "latitude": "13.0568706",
+    "longitude": "77.5936174",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2B",
+    "status": "uc"
+  },
+  {
+    "stationName": "Jakkur Cross",
+    "latitude": "13.0710381",
+    "longitude": "77.5930749",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2B",
+    "status": "uc"
+  },
+  {
+    "stationName": "Bagalur Cross",
+    "latitude": "13.1191903",
+    "longitude": "77.6097328",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2B",
+    "status": "uc"
+  },
+  {
+    "stationName": "Allalasandra",
+    "latitude": "13.0885214",
+    "longitude": "77.5961038",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2B",
+    "status": "uc"
+  },
+  {
+    "stationName": "Yelahanka",
+    "latitude": "13.1026124",
+    "longitude": "77.6002885",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2B",
+    "status": "uc"
+  },
+  {
+    "stationName": "Bettahalasuru",
+    "latitude": "13.1521697",
+    "longitude": "77.6206478",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2B",
+    "status": "uc"
+  },
+  {
+    "stationName": "Chikkajala",
+    "latitude": "13.1692993",
+    "longitude": "77.6319904",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2B",
+    "status": "uc"
+  },
+  {
+    "stationName": "Doddajala",
+    "latitude": "13.188573",
+    "longitude": "77.6446773",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2B",
+    "status": "uc"
+  },
+  {
+    "stationName": "Airport City",
+    "latitude": "13.198353",
+    "longitude": "77.6860948",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2B",
+    "status": "uc"
+  },
+  {
+    "stationName": "KIADB Airport Terminal",
+    "latitude": "13.1980642",
+    "longitude": "77.7123653",
+    "line": "Blue",
+    "lineColor": "#0000FF",
+    "phase": "2B",
+    "status": "uc"
+  },
+  {
+    "stationName": "Kalena Agrahara",
+    "latitude": "12.871489",
+    "longitude": "77.5937198",
+    "line": "Pink",
+    "lineColor": "#AA336A",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Hulimavu",
+    "latitude": "12.8809096",
+    "longitude": "77.5957824",
+    "line": "Pink",
+    "lineColor": "#AA336A",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "IIM Bangalore",
+    "latitude": "12.8956944",
+    "longitude": "77.5996498",
+    "line": "Pink",
+    "lineColor": "#AA336A",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "JP Nagar 4th Phase",
+    "latitude": "12.9098124",
+    "longitude": "77.6002087",
+    "line": "Pink",
+    "lineColor": "#AA336A",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Jayadeva Hospital",
+    "latitude": "12.9167903",
+    "longitude": "77.5999394",
+    "line": "Pink",
+    "lineColor": "#AA336A",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Tavarekere",
+    "latitude": "12.929508",
+    "longitude": "77.600567",
+    "line": "Pink",
+    "lineColor": "#AA336A",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Dairy Circle",
+    "latitude": "12.9408744",
+    "longitude": "77.6023938",
+    "line": "Pink",
+    "lineColor": "#AA336A",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Lakkasandra",
+    "latitude": "12.949225",
+    "longitude": "77.603012",
+    "line": "Pink",
+    "lineColor": "#AA336A",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Langford Town",
+    "latitude": "12.9574188",
+    "longitude": "77.6061889",
+    "line": "Pink",
+    "lineColor": "#AA336A",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "National Military School",
+    "latitude": "12.9638776",
+    "longitude": "77.6070197",
+    "line": "Pink",
+    "lineColor": "#AA336A",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "MG Road",
+    "latitude": "12.9761561",
+    "longitude": "77.6083077",
+    "line": "Pink",
+    "lineColor": "#AA336A",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Tannery Road",
+    "latitude": "13.0094257",
+    "longitude": "77.6139273",
+    "line": "Pink",
+    "lineColor": "#AA336A",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Shivajinagar ",
+    "latitude": "12.9838144",
+    "longitude": "77.6022567",
+    "line": "Pink",
+    "lineColor": "#AA336A",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Cantonment",
+    "latitude": "12.9920036",
+    "longitude": "77.6062953",
+    "line": "Pink",
+    "lineColor": "#AA336A",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Pottery Town",
+    "latitude": "13.0007636",
+    "longitude": "77.6096939",
+    "line": "Pink",
+    "lineColor": "#AA336A",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Venkateshpura",
+    "latitude": "13.0176674",
+    "longitude": "77.6181144",
+    "line": "Pink",
+    "lineColor": "#AA336A",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Kadugundanahalli",
+    "latitude": "13.0296229",
+    "longitude": "77.6206498",
+    "line": "Pink",
+    "lineColor": "#AA336A",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Nagawara",
+    "latitude": "13.0408212",
+    "longitude": "77.6248018",
+    "line": "Pink",
+    "lineColor": "#AA336A",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Rashtreeya Vidyalaya Road",
+    "latitude": "12.9215912",
+    "longitude": "77.5800313",
+    "line": "Yellow",
+    "lineColor": "#EFEC0F",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Ragigudda",
+    "latitude": "12.917042",
+    "longitude": "77.5883309",
+    "line": "Yellow",
+    "lineColor": "#EFEC0F",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Jayadeva Hospital",
+    "latitude": "12.9167406",
+    "longitude": "77.5999272",
+    "line": "Yellow",
+    "lineColor": "#EFEC0F",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "BTM Layout",
+    "latitude": "12.9166168",
+    "longitude": "77.6080616",
+    "line": "Yellow",
+    "lineColor": "#EFEC0F",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Central Silk Board",
+    "latitude": "12.9164951",
+    "longitude": "77.6204612",
+    "line": "Yellow",
+    "lineColor": "#EFEC0F",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Bommanahalli",
+    "latitude": "12.910733",
+    "longitude": "77.6263513",
+    "line": "Yellow",
+    "lineColor": "#EFEC0F",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Hongasandra",
+    "latitude": "12.9017432",
+    "longitude": "77.6318981",
+    "line": "Yellow",
+    "lineColor": "#EFEC0F",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Kudlu Gate",
+    "latitude": "12.8898578",
+    "longitude": "77.6391646",
+    "line": "Yellow",
+    "lineColor": "#EFEC0F",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Singasandra",
+    "latitude": "12.8807061",
+    "longitude": "77.6448236",
+    "line": "Yellow",
+    "lineColor": "#EFEC0F",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Hosa Road",
+    "latitude": "12.8707221",
+    "longitude": "77.6523603",
+    "line": "Yellow",
+    "lineColor": "#EFEC0F",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Beratena Agrahara",
+    "latitude": "12.8638156",
+    "longitude": "77.6578497",
+    "line": "Yellow",
+    "lineColor": "#EFEC0F",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Electronic City",
+    "latitude": "12.8563229",
+    "longitude": "77.6636536",
+    "line": "Yellow",
+    "lineColor": "#EFEC0F",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Konappana Agrahara",
+    "latitude": "12.846481",
+    "longitude": "77.6710731",
+    "line": "Yellow",
+    "lineColor": "#EFEC0F",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Huskur Road",
+    "latitude": "12.8390822",
+    "longitude": "77.6773666",
+    "line": "Yellow",
+    "lineColor": "#EFEC0F",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Hebbagodi",
+    "latitude": "12.8289951",
+    "longitude": "77.6813278",
+    "line": "Yellow",
+    "lineColor": "#EFEC0F",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Bommasandra",
+    "latitude": "12.8194782",
+    "longitude": "77.6882819",
+    "line": "Yellow",
+    "lineColor": "#EFEC0F",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Madavara",
+    "latitude": "13.0573735",
+    "longitude": "77.4727123",
+    "line": "Green",
+    "lineColor": "#4CBB17",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Chikkabidarakallu",
+    "latitude": "13.0524451",
+    "longitude": "77.487803",
+    "line": "Green",
+    "lineColor": "#4CBB18",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Manjunathanagara",
+    "latitude": "13.0501173",
+    "longitude": "77.494385",
+    "line": "Green",
+    "lineColor": "#4CBB19",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Nagasandra",
+    "latitude": "13.0480936",
+    "longitude": "77.5001184",
+    "line": "Green",
+    "lineColor": "#4CBB20",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Dasarahalli",
+    "latitude": "13.0433931",
+    "longitude": "77.5125384",
+    "line": "Green",
+    "lineColor": "#4CBB21",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Jalahalli",
+    "latitude": "13.039463",
+    "longitude": "77.5198743",
+    "line": "Green",
+    "lineColor": "#4CBB22",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Peenya Industry",
+    "latitude": "13.036352",
+    "longitude": "77.5256154",
+    "line": "Green",
+    "lineColor": "#4CBB23",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Peenya",
+    "latitude": "13.0329402",
+    "longitude": "77.5334794",
+    "line": "Green",
+    "lineColor": "#4CBB24",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Goraguntepalya",
+    "latitude": "13.0284176",
+    "longitude": "77.5409003",
+    "line": "Green",
+    "lineColor": "#4CBB25",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Yeshwantpur",
+    "latitude": "13.0232532",
+    "longitude": "77.5498586",
+    "line": "Green",
+    "lineColor": "#4CBB26",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Sandal Soap Factory",
+    "latitude": "13.0147132",
+    "longitude": "77.5540606",
+    "line": "Green",
+    "lineColor": "#4CBB27",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Mahalakshmi",
+    "latitude": "13.0082501",
+    "longitude": "77.5488796",
+    "line": "Green",
+    "lineColor": "#4CBB28",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Rajajinagar",
+    "latitude": "13.0001964",
+    "longitude": "77.5498001",
+    "line": "Green",
+    "lineColor": "#4CBB29",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Mahakavi Kuvempu Road",
+    "latitude": "12.9984353",
+    "longitude": "77.5570179",
+    "line": "Green",
+    "lineColor": "#4CBB30",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Srirampura",
+    "latitude": "12.9964873",
+    "longitude": "77.5633595",
+    "line": "Green",
+    "lineColor": "#4CBB31",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Mantri Square Sampige Road",
+    "latitude": "12.9904225",
+    "longitude": "77.5708686",
+    "line": "Green",
+    "lineColor": "#4CBB32",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Majestic",
+    "latitude": "12.9756736",
+    "longitude": "77.5728489",
+    "line": "Green",
+    "lineColor": "#4CBB33",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Chickpete",
+    "latitude": "12.9675615",
+    "longitude": "77.5747703",
+    "line": "Green",
+    "lineColor": "#4CBB34",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Krishna Rajendra Market",
+    "latitude": "12.9601119",
+    "longitude": "77.5745773",
+    "line": "Green",
+    "lineColor": "#4CBB35",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "National College",
+    "latitude": "12.9506096",
+    "longitude": "77.5737661",
+    "line": "Green",
+    "lineColor": "#4CBB36",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Lalbagh Botanical Garden",
+    "latitude": "12.9462971",
+    "longitude": "77.5800611",
+    "line": "Green",
+    "lineColor": "#4CBB37",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "South End Circle",
+    "latitude": "12.9383258",
+    "longitude": "77.5800932",
+    "line": "Green",
+    "lineColor": "#4CBB38",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Jayanagar",
+    "latitude": "12.929647",
+    "longitude": "77.5801955",
+    "line": "Green",
+    "lineColor": "#4CBB39",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Rashtreeya Vidyalaya Road",
+    "latitude": "12.9216011",
+    "longitude": "77.5802889",
+    "line": "Green",
+    "lineColor": "#4CBB40",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Banashankari",
+    "latitude": "12.9154006",
+    "longitude": "77.5737287",
+    "line": "Green",
+    "lineColor": "#4CBB41",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Jaya Prakash Nagar",
+    "latitude": "12.9074148",
+    "longitude": "77.5731721",
+    "line": "Green",
+    "lineColor": "#4CBB42",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Yelachenahalli",
+    "latitude": "12.8959951",
+    "longitude": "77.5702504",
+    "line": "Green",
+    "lineColor": "#4CBB43",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Konakunte Cross",
+    "latitude": "12.8888422",
+    "longitude": "77.5627908",
+    "line": "Green",
+    "lineColor": "#4CBB44",
+    "phase": "2",
+    "status": "op"
+  },
+  {
+    "stationName": "Doddakallasandra",
+    "latitude": "12.8845931",
+    "longitude": "77.5528811",
+    "line": "Green",
+    "lineColor": "#4CBB45",
+    "phase": "2",
+    "status": "op"
+  },
+  {
+    "stationName": "Vajarahalli",
+    "latitude": "12.8774092",
+    "longitude": "77.5448941",
+    "line": "Green",
+    "lineColor": "#4CBB46",
+    "phase": "2",
+    "status": "op"
+  },
+  {
+    "stationName": "Thalaghattapura",
+    "latitude": "12.8713094",
+    "longitude": "77.5384573",
+    "line": "Green",
+    "lineColor": "#4CBB47",
+    "phase": "2",
+    "status": "op"
+  },
+  {
+    "stationName": "Silk Institute",
+    "latitude": "12.8616746",
+    "longitude": "77.5299889",
+    "line": "Green",
+    "lineColor": "#4CBB48",
+    "phase": "2",
+    "status": "op"
+  },
+  {
+    "stationName": "Whitefield",
+    "latitude": "12.9954962",
+    "longitude": "77.7578322",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "2",
+    "status": "op"
+  },
+  {
+    "stationName": "Channasandra",
+    "latitude": "12.987021",
+    "longitude": "77.7534876",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "2",
+    "status": "op"
+  },
+  {
+    "stationName": "Kadugodi",
+    "latitude": "12.9856295",
+    "longitude": "77.7469209",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "2",
+    "status": "op"
+  },
+  {
+    "stationName": "Pattandur Agrahara",
+    "latitude": "12.9875231",
+    "longitude": "77.7378376",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "2",
+    "status": "op"
+  },
+  {
+    "stationName": "Sadaramangala",
+    "latitude": "12.9810905",
+    "longitude": "77.7275921",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "2",
+    "status": "op"
+  },
+  {
+    "stationName": "Nallurhalli",
+    "latitude": "12.9765021",
+    "longitude": "77.7248737",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "2",
+    "status": "op"
+  },
+  {
+    "stationName": "Kundalahalli ",
+    "latitude": "12.9774906",
+    "longitude": "77.7157149",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "2",
+    "status": "op"
+  },
+  {
+    "stationName": "Sitharamapalya",
+    "latitude": "12.9809705",
+    "longitude": "77.7087566",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "2",
+    "status": "op"
+  },
+  {
+    "stationName": "Hoodi Junction",
+    "latitude": "12.9887588",
+    "longitude": "77.7114339",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "2",
+    "status": "op"
+  },
+  {
+    "stationName": "Garudacharapalya",
+    "latitude": "12.9933421",
+    "longitude": "77.7037884",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "2",
+    "status": "op"
+  },
+  {
+    "stationName": "Mahadevapura",
+    "latitude": "12.996564",
+    "longitude": "77.6925936",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "2",
+    "status": "op"
+  },
+  {
+    "stationName": "Krishnarajapuram",
+    "latitude": "12.9999212",
+    "longitude": "77.6777292",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "2",
+    "status": "op"
+  },
+  {
+    "stationName": "Benniganahalli",
+    "latitude": "12.9964976",
+    "longitude": "77.6684701",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "2",
+    "status": "uc"
+  },
+  {
+    "stationName": "Baiyappanahalli",
+    "latitude": "12.9906666",
+    "longitude": "77.6526018",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Swami Vivekananda Road",
+    "latitude": "12.9858932",
+    "longitude": "77.6450102",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Indiranagara",
+    "latitude": "12.9782043",
+    "longitude": "77.6386703",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Halasuru",
+    "latitude": "12.9765019",
+    "longitude": "77.6267697",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Trinity",
+    "latitude": "12.9730267",
+    "longitude": "77.6168569",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "MG Road",
+    "latitude": "12.9755481",
+    "longitude": "77.6065075",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Cubbon Park",
+    "latitude": "12.980902",
+    "longitude": "77.5974563",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Vidhan Soudha",
+    "latitude": "12.9796832",
+    "longitude": "77.5926381",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Sir M Visvesvarya",
+    "latitude": "12.9742799",
+    "longitude": "77.5839607",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Majestic",
+    "latitude": "12.9756736",
+    "longitude": "77.5728489",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "KSR",
+    "latitude": "12.9758447",
+    "longitude": "77.5657599",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Magadi Road",
+    "latitude": "12.9756529",
+    "longitude": "77.5554158",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Hosahalli",
+    "latitude": "12.9742424",
+    "longitude": "77.5454511",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Vijayanagar",
+    "latitude": "12.9708026",
+    "longitude": "77.5373816",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Attiguppe",
+    "latitude": "12.9621511",
+    "longitude": "77.5337615",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Deepanjali Nagar",
+    "latitude": "12.9520359",
+    "longitude": "77.537114",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Mysuru Road",
+    "latitude": "12.9467311",
+    "longitude": "77.5302314",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "1",
+    "status": "op"
+  },
+  {
+    "stationName": "Nayandahalli",
+    "latitude": "12.9417617",
+    "longitude": "77.525203",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "2",
+    "status": "op"
+  },
+  {
+    "stationName": "Rajarajeshwari Nagar",
+    "latitude": "12.9367367",
+    "longitude": "77.5196935",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "2",
+    "status": "op"
+  },
+  {
+    "stationName": "Jnanabharathi",
+    "latitude": "12.9354133",
+    "longitude": "77.5123373",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "2",
+    "status": "op"
+  },
+  {
+    "stationName": "Pattanagere",
+    "latitude": "12.9242638",
+    "longitude": "77.4983113",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "2",
+    "status": "op"
+  },
+  {
+    "stationName": "Kengeri Bus Terminal",
+    "latitude": "12.9146295",
+    "longitude": "77.4877379",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "2",
+    "status": "op"
+  },
+  {
+    "stationName": "Kengeri",
+    "latitude": "12.9079134",
+    "longitude": "77.4764807",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "2",
+    "status": "op"
+  },
+  {
+    "stationName": "Challaghatta",
+    "latitude": "12.8973642",
+    "longitude": "77.4612634",
+    "line": "Purple",
+    "lineColor": "#800080",
+    "phase": "2",
+    "status": "uc"
+  }
+]
