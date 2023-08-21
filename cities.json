@@ -5,12 +5,5 @@
     "longitude": 77.6066959096295,
     "isDefault": true,
     "zoomLevel": 12
-  },
-  {
-    "cityName": "Delhi",
-    "latitude": 28.612489361591,
-    "longitude": 77.2503269592535,
-    "isDefault": false,
-    "zoomLevel": 11
   }
 ]
