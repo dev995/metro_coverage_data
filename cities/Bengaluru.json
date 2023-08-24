@@ -6,7 +6,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2A",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "HSR Layout",
@@ -15,7 +16,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2A",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Agara Lake",
@@ -24,7 +26,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2A",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Ibbaluru",
@@ -33,7 +36,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2A",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Bellandur",
@@ -42,7 +46,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2A",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Kadubeesanahalli",
@@ -51,7 +56,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2A",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Kodibeesanahalli",
@@ -60,7 +66,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2A",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Marthahalli",
@@ -69,7 +76,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2A",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "ISRO",
@@ -78,7 +86,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2A",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Doddanekundi",
@@ -87,7 +96,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2A",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "DRDO Sports Complex",
@@ -96,7 +106,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2A",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Mahadevapura",
@@ -105,7 +116,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2A",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Krishnarajapuram",
@@ -114,7 +126,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2A",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Kasturinagara",
@@ -123,7 +136,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2B",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Horamavu",
@@ -132,7 +146,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2B",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "HRBR Layout",
@@ -141,7 +156,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2B",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Kalyan Nagar",
@@ -150,7 +166,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2B",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "HBR Layout",
@@ -159,7 +176,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2B",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Nagawara",
@@ -168,7 +186,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2B",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Veeranapalya",
@@ -177,7 +196,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2B",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Kempapura",
@@ -186,7 +206,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2B",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Hebbal",
@@ -195,7 +216,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2B",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Kodigehalli",
@@ -204,7 +226,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2B",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Jakkur Cross",
@@ -213,7 +236,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2B",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Bagalur Cross",
@@ -222,7 +246,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2B",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Allalasandra",
@@ -231,7 +256,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2B",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Yelahanka",
@@ -240,7 +266,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2B",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Bettahalasuru",
@@ -249,7 +276,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2B",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Chikkajala",
@@ -258,7 +286,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2B",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Doddajala",
@@ -267,7 +296,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2B",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Airport City",
@@ -276,7 +306,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2B",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "KIADB Airport Terminal",
@@ -285,7 +316,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2B",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Kalena Agrahara",
@@ -294,7 +326,8 @@
     "line": "Pink",
     "lineColor": "#AA336A",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Hulimavu",
@@ -303,7 +336,8 @@
     "line": "Pink",
     "lineColor": "#AA336A",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "IIM Bangalore",
@@ -312,7 +346,8 @@
     "line": "Pink",
     "lineColor": "#AA336A",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "JP Nagar 4th Phase",
@@ -321,7 +356,8 @@
     "line": "Pink",
     "lineColor": "#AA336A",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Jayadeva Hospital",
@@ -330,7 +366,8 @@
     "line": "Pink",
     "lineColor": "#AA336A",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Tavarekere",
@@ -339,7 +376,8 @@
     "line": "Pink",
     "lineColor": "#AA336A",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Dairy Circle",
@@ -348,7 +386,8 @@
     "line": "Pink",
     "lineColor": "#AA336A",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Lakkasandra",
@@ -357,7 +396,8 @@
     "line": "Pink",
     "lineColor": "#AA336A",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Langford Town",
@@ -366,7 +406,8 @@
     "line": "Pink",
     "lineColor": "#AA336A",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "National Military School",
@@ -375,7 +416,8 @@
     "line": "Pink",
     "lineColor": "#AA336A",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "MG Road",
@@ -384,7 +426,8 @@
     "line": "Pink",
     "lineColor": "#AA336A",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Tannery Road",
@@ -393,7 +436,8 @@
     "line": "Pink",
     "lineColor": "#AA336A",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Shivajinagar ",
@@ -402,7 +446,8 @@
     "line": "Pink",
     "lineColor": "#AA336A",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Cantonment",
@@ -411,7 +456,8 @@
     "line": "Pink",
     "lineColor": "#AA336A",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Pottery Town",
@@ -420,7 +466,8 @@
     "line": "Pink",
     "lineColor": "#AA336A",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Venkateshpura",
@@ -429,7 +476,8 @@
     "line": "Pink",
     "lineColor": "#AA336A",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Kadugundanahalli",
@@ -438,7 +486,8 @@
     "line": "Pink",
     "lineColor": "#AA336A",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Nagawara",
@@ -447,7 +496,8 @@
     "line": "Pink",
     "lineColor": "#AA336A",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Rashtreeya Vidyalaya Road",
@@ -456,7 +506,8 @@
     "line": "Yellow",
     "lineColor": "#EFEC0F",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Ragigudda",
@@ -465,7 +516,8 @@
     "line": "Yellow",
     "lineColor": "#EFEC0F",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Jayadeva Hospital",
@@ -474,7 +526,8 @@
     "line": "Yellow",
     "lineColor": "#EFEC0F",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "BTM Layout",
@@ -483,7 +536,8 @@
     "line": "Yellow",
     "lineColor": "#EFEC0F",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Central Silk Board",
@@ -492,7 +546,8 @@
     "line": "Yellow",
     "lineColor": "#EFEC0F",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Bommanahalli",
@@ -501,7 +556,8 @@
     "line": "Yellow",
     "lineColor": "#EFEC0F",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Hongasandra",
@@ -510,7 +566,8 @@
     "line": "Yellow",
     "lineColor": "#EFEC0F",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Kudlu Gate",
@@ -519,7 +576,8 @@
     "line": "Yellow",
     "lineColor": "#EFEC0F",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Singasandra",
@@ -528,7 +586,8 @@
     "line": "Yellow",
     "lineColor": "#EFEC0F",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Hosa Road",
@@ -537,7 +596,8 @@
     "line": "Yellow",
     "lineColor": "#EFEC0F",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Beratena Agrahara",
@@ -546,7 +606,8 @@
     "line": "Yellow",
     "lineColor": "#EFEC0F",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Electronic City",
@@ -555,7 +616,8 @@
     "line": "Yellow",
     "lineColor": "#EFEC0F",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Konappana Agrahara",
@@ -564,7 +626,8 @@
     "line": "Yellow",
     "lineColor": "#EFEC0F",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Huskur Road",
@@ -573,7 +636,8 @@
     "line": "Yellow",
     "lineColor": "#EFEC0F",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Hebbagodi",
@@ -582,7 +646,8 @@
     "line": "Yellow",
     "lineColor": "#EFEC0F",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Bommasandra",
@@ -591,7 +656,8 @@
     "line": "Yellow",
     "lineColor": "#EFEC0F",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Madavara",
@@ -600,7 +666,8 @@
     "line": "Green",
     "lineColor": "#4CBB17",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Chikkabidarakallu",
@@ -609,7 +676,8 @@
     "line": "Green",
     "lineColor": "#4CBB18",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Manjunathanagara",
@@ -618,7 +686,8 @@
     "line": "Green",
     "lineColor": "#4CBB19",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Nagasandra",
@@ -627,7 +696,8 @@
     "line": "Green",
     "lineColor": "#4CBB20",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Dasarahalli",
@@ -636,7 +706,8 @@
     "line": "Green",
     "lineColor": "#4CBB21",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Jalahalli",
@@ -645,7 +716,8 @@
     "line": "Green",
     "lineColor": "#4CBB22",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Peenya Industry",
@@ -654,7 +726,8 @@
     "line": "Green",
     "lineColor": "#4CBB23",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Peenya",
@@ -663,7 +736,8 @@
     "line": "Green",
     "lineColor": "#4CBB24",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Goraguntepalya",
@@ -672,7 +746,8 @@
     "line": "Green",
     "lineColor": "#4CBB25",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Yeshwantpur",
@@ -681,7 +756,8 @@
     "line": "Green",
     "lineColor": "#4CBB26",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Sandal Soap Factory",
@@ -690,7 +766,8 @@
     "line": "Green",
     "lineColor": "#4CBB27",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Mahalakshmi",
@@ -699,7 +776,8 @@
     "line": "Green",
     "lineColor": "#4CBB28",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Rajajinagar",
@@ -708,7 +786,8 @@
     "line": "Green",
     "lineColor": "#4CBB29",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Mahakavi Kuvempu Road",
@@ -717,7 +796,8 @@
     "line": "Green",
     "lineColor": "#4CBB30",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Srirampura",
@@ -726,7 +806,8 @@
     "line": "Green",
     "lineColor": "#4CBB31",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Mantri Square Sampige Road",
@@ -735,7 +816,8 @@
     "line": "Green",
     "lineColor": "#4CBB32",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Majestic",
@@ -744,7 +826,8 @@
     "line": "Green",
     "lineColor": "#4CBB33",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Chickpete",
@@ -753,7 +836,8 @@
     "line": "Green",
     "lineColor": "#4CBB34",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Krishna Rajendra Market",
@@ -762,7 +846,8 @@
     "line": "Green",
     "lineColor": "#4CBB35",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "National College",
@@ -771,7 +856,8 @@
     "line": "Green",
     "lineColor": "#4CBB36",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Lalbagh Botanical Garden",
@@ -780,7 +866,8 @@
     "line": "Green",
     "lineColor": "#4CBB37",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "South End Circle",
@@ -789,7 +876,8 @@
     "line": "Green",
     "lineColor": "#4CBB38",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Jayanagar",
@@ -798,7 +886,8 @@
     "line": "Green",
     "lineColor": "#4CBB39",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Rashtreeya Vidyalaya Road",
@@ -807,7 +896,8 @@
     "line": "Green",
     "lineColor": "#4CBB40",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Banashankari",
@@ -816,7 +906,8 @@
     "line": "Green",
     "lineColor": "#4CBB41",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Jaya Prakash Nagar",
@@ -825,7 +916,8 @@
     "line": "Green",
     "lineColor": "#4CBB42",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Yelachenahalli",
@@ -834,7 +926,8 @@
     "line": "Green",
     "lineColor": "#4CBB43",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Konakunte Cross",
@@ -843,7 +936,8 @@
     "line": "Green",
     "lineColor": "#4CBB44",
     "phase": "2",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Doddakallasandra",
@@ -852,7 +946,8 @@
     "line": "Green",
     "lineColor": "#4CBB45",
     "phase": "2",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Vajarahalli",
@@ -861,7 +956,8 @@
     "line": "Green",
     "lineColor": "#4CBB46",
     "phase": "2",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Thalaghattapura",
@@ -870,7 +966,8 @@
     "line": "Green",
     "lineColor": "#4CBB47",
     "phase": "2",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Silk Institute",
@@ -879,7 +976,8 @@
     "line": "Green",
     "lineColor": "#4CBB48",
     "phase": "2",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Whitefield",
@@ -888,7 +986,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "2",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Channasandra",
@@ -897,7 +996,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "2",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Kadugodi",
@@ -906,7 +1006,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "2",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Pattandur Agrahara",
@@ -915,7 +1016,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "2",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Sadaramangala",
@@ -924,7 +1026,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "2",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Nallurhalli",
@@ -933,7 +1036,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "2",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Kundalahalli ",
@@ -942,7 +1046,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "2",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Sitharamapalya",
@@ -951,7 +1056,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "2",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Hoodi Junction",
@@ -960,7 +1066,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "2",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Garudacharapalya",
@@ -969,7 +1076,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "2",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Mahadevapura",
@@ -978,7 +1086,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "2",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Krishnarajapuram",
@@ -987,7 +1096,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "2",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Benniganahalli",
@@ -996,7 +1106,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Baiyappanahalli",
@@ -1005,7 +1116,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Swami Vivekananda Road",
@@ -1014,7 +1126,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Indiranagara",
@@ -1023,7 +1136,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Halasuru",
@@ -1032,7 +1146,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Trinity",
@@ -1041,7 +1156,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "MG Road",
@@ -1050,7 +1166,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Cubbon Park",
@@ -1059,7 +1176,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Vidhan Soudha",
@@ -1068,7 +1186,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Sir M Visvesvarya",
@@ -1077,7 +1196,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Majestic",
@@ -1086,7 +1206,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "KSR",
@@ -1095,7 +1216,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Magadi Road",
@@ -1104,7 +1226,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Hosahalli",
@@ -1113,7 +1236,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Vijayanagar",
@@ -1122,7 +1246,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Attiguppe",
@@ -1131,7 +1256,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Deepanjali Nagar",
@@ -1140,7 +1266,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Mysuru Road",
@@ -1149,7 +1276,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "1",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Nayandahalli",
@@ -1158,7 +1286,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "2",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Rajarajeshwari Nagar",
@@ -1167,7 +1296,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "2",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Jnanabharathi",
@@ -1176,7 +1306,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "2",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Pattanagere",
@@ -1185,7 +1316,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "2",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Kengeri Bus Terminal",
@@ -1194,7 +1326,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "2",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Kengeri",
@@ -1203,7 +1336,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "2",
-    "status": "op"
+    "status": "op",
+    "type": "metro"
   },
   {
     "stationName": "Challaghatta",
@@ -1212,7 +1346,8 @@
     "line": "Purple",
     "lineColor": "#800080",
     "phase": "2",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "JP Nagar Phase 4",
@@ -1221,7 +1356,8 @@
     "line": "Orange",
     "lineColor": "#FFA500",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "JP Nagar Phase 5",
@@ -1230,7 +1366,8 @@
     "line": "Orange",
     "lineColor": "#FFA501",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Jaya Prakash Nagar",
@@ -1239,7 +1376,8 @@
     "line": "Orange",
     "lineColor": "#FFA502",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Kadirenahalli Cross",
@@ -1248,7 +1386,8 @@
     "line": "Orange",
     "lineColor": "#FFA503",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Kamakya Bus Depot",
@@ -1257,7 +1396,8 @@
     "line": "Orange",
     "lineColor": "#FFA504",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Hosakerahalli Cross",
@@ -1266,7 +1406,8 @@
     "line": "Orange",
     "lineColor": "#FFA505",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "PES Institute",
@@ -1275,7 +1416,8 @@
     "line": "Orange",
     "lineColor": "#FFA506",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Mysuru Road",
@@ -1284,7 +1426,8 @@
     "line": "Orange",
     "lineColor": "#FFA507",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Nagarbhavi Circle",
@@ -1293,7 +1436,8 @@
     "line": "Orange",
     "lineColor": "#FFA508",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Vinayaka Layout",
@@ -1302,7 +1446,8 @@
     "line": "Orange",
     "lineColor": "#FFA509",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Ambedkar Institute of Engineering",
@@ -1311,7 +1456,8 @@
     "line": "Orange",
     "lineColor": "#FFA510",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "BDA Complex",
@@ -1320,7 +1466,8 @@
     "line": "Orange",
     "lineColor": "#FFA511",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Sumanahalli Cross",
@@ -1329,7 +1476,8 @@
     "line": "Orange",
     "lineColor": "#FFA512",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Chowdeshwari Nagara",
@@ -1338,7 +1486,8 @@
     "line": "Orange",
     "lineColor": "#FFA513",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Freedom Fighters Cross",
@@ -1347,7 +1496,8 @@
     "line": "Orange",
     "lineColor": "#FFA514",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Kanteerava Studio",
@@ -1356,7 +1506,8 @@
     "line": "Orange",
     "lineColor": "#FFA515",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Peenya",
@@ -1365,7 +1516,8 @@
     "line": "Orange",
     "lineColor": "#FFA516",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Bahubhali Nagara",
@@ -1374,7 +1526,8 @@
     "line": "Orange",
     "lineColor": "#FFA517",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "BEL Circle",
@@ -1383,7 +1536,8 @@
     "line": "Orange",
     "lineColor": "#FFA518",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Patelappa Layout",
@@ -1392,16 +1546,18 @@
     "line": "Orange",
     "lineColor": "#FFA519",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
-    "stationName": "Hebbala",
+    "stationName": "Hebbal",
     "latitude": "13.0425488",
     "longitude": "77.5921943",
     "line": "Orange",
     "lineColor": "#FFA520",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Kempapura",
@@ -1410,7 +1566,8 @@
     "line": "Orange",
     "lineColor": "#FFA521",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Hosahalli",
@@ -1419,7 +1576,8 @@
     "line": "Orange",
     "lineColor": "#FFA522",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "KHB Colony",
@@ -1428,7 +1586,8 @@
     "line": "Orange",
     "lineColor": "#FFA523",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Vinayaka Nagara",
@@ -1437,7 +1596,8 @@
     "line": "Orange",
     "lineColor": "#FFA524",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Sumanahalli Cross",
@@ -1446,7 +1606,8 @@
     "line": "Orange",
     "lineColor": "#FFA525",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Sunkadakatte",
@@ -1455,7 +1616,8 @@
     "line": "Orange",
     "lineColor": "#FFA526",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Herohalli",
@@ -1464,7 +1626,8 @@
     "line": "Orange",
     "lineColor": "#FFA527",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Byadarahalli",
@@ -1473,7 +1636,8 @@
     "line": "Orange",
     "lineColor": "#FFA528",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Forest Gate",
@@ -1482,7 +1646,8 @@
     "line": "Orange",
     "lineColor": "#FFA529",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Kadabagere",
@@ -1491,7 +1656,8 @@
     "line": "Orange",
     "lineColor": "#FFA530",
     "phase": "3",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Sarjapur",
@@ -1500,7 +1666,8 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Sompura",
@@ -1509,7 +1676,8 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Dommasandra Circle",
@@ -1518,7 +1686,8 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Muthnallur Cross",
@@ -1527,7 +1696,8 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Sulikunte",
@@ -1536,7 +1706,8 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Kodathi",
@@ -1545,7 +1716,8 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Ambedkar Nagara",
@@ -1554,7 +1726,8 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Carmelaram",
@@ -1563,7 +1736,8 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Doddakanalli Gate",
@@ -1572,7 +1746,8 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Kaikondrahalli",
@@ -1581,7 +1756,8 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Bellandur Gate",
@@ -1590,7 +1766,8 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Ibbalur",
@@ -1599,7 +1776,8 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Agara",
@@ -1608,7 +1786,8 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Jakkasandra",
@@ -1617,7 +1796,8 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Koramangala",
@@ -1626,7 +1806,8 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "St. John's Hospital",
@@ -1635,7 +1816,8 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Sudduguntepalya",
@@ -1644,7 +1826,8 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Dairy Circle",
@@ -1653,7 +1836,8 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "NIMHANS",
@@ -1662,7 +1846,8 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Wilson Garden",
@@ -1671,7 +1856,8 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Town Hall",
@@ -1680,7 +1866,8 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Central College",
@@ -1689,7 +1876,8 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Basaveshwara Circle",
@@ -1698,7 +1886,8 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Cunningham Road",
@@ -1707,7 +1896,8 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Palace Guttalahalli",
@@ -1716,7 +1906,8 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Mekhri Circle",
@@ -1725,7 +1916,8 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Gangenahalli",
@@ -1734,7 +1926,8 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Veterinery College",
@@ -1743,7 +1936,8 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
   },
   {
     "stationName": "Hebbal",
@@ -1752,6 +1946,27 @@
     "line": "Red",
     "lineColor": "#C41E3A",
     "phase": "3A",
-    "status": "pl"
+    "status": "pl",
+    "type": "metro"
+  },
+  {
+    "stationName": "Mathikere",
+    "latitude": "13.0341",
+    "longitude": "77.55637",
+    "line": "2",
+    "lineColor": "\t#A9A9A9",
+    "phase": "1",
+    "status": "uc",
+    "type": "suburban"
+  },
+  {
+    "stationName": "",
+    "latitude": "",
+    "longitude": "",
+    "line": "",
+    "lineColor": "",
+    "phase": "",
+    "status": "",
+    "type": ""
   }
 ]
