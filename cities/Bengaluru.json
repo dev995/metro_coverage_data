@@ -1953,9 +1953,9 @@
     "stationName": "Mathikere",
     "latitude": "13.0341",
     "longitude": "77.55637",
-    "line": "2",
+    "line": "2 (Suburban)",
     "lineColor": "\t#A9A9A9",
-    "phase": "1",
+    "phase": "1 (Suburban)",
     "status": "uc",
     "type": "suburban"
   }
