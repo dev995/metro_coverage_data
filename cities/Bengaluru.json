@@ -1958,15 +1958,5 @@
     "phase": "1",
     "status": "uc",
     "type": "suburban"
-  },
-  {
-    "stationName": "",
-    "latitude": "",
-    "longitude": "",
-    "line": "",
-    "lineColor": "",
-    "phase": "",
-    "status": "",
-    "type": ""
   }
 ]
