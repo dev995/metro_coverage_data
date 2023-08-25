@@ -6,7 +6,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2A",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "HSR Layout",
@@ -15,7 +16,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2A",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Agara Lake",
@@ -24,7 +26,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2A",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Ibbaluru",
@@ -33,7 +36,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2A",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Bellandur",
@@ -42,7 +46,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2A",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Kadubeesanahalli",
@@ -51,7 +56,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2A",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Kodibeesanahalli",
@@ -60,7 +66,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2A",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "Marthahalli",
@@ -69,7 +76,8 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2A",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   },
   {
     "stationName": "ISRO",
@@ -78,6 +86,7 @@
     "line": "Blue",
     "lineColor": "#0000FF",
     "phase": "2A",
-    "status": "uc"
+    "status": "uc",
+    "type": "metro"
   }
 ]
