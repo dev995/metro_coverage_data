@@ -4,7 +4,7 @@
     "latitude": "12.9174453",
     "longitude": "77.6233675",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2A",
     "status": "uc",
     "type": "metro"
@@ -14,7 +14,7 @@
     "latitude": "12.9164672",
     "longitude": "77.6330593",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2A",
     "status": "uc",
     "type": "metro"
@@ -24,7 +24,7 @@
     "latitude": "12.920791",
     "longitude": "77.6437319",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2A",
     "status": "uc",
     "type": "metro"
@@ -34,7 +34,7 @@
     "latitude": "12.9211679",
     "longitude": "77.6630477",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2A",
     "status": "uc",
     "type": "metro"
@@ -44,7 +44,7 @@
     "latitude": "12.9276914",
     "longitude": "77.6801937",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2A",
     "status": "uc",
     "type": "metro"
@@ -54,7 +54,7 @@
     "latitude": "12.9319543",
     "longitude": "77.6872831",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2A",
     "status": "uc",
     "type": "metro"
@@ -64,7 +64,7 @@
     "latitude": "12.9445228",
     "longitude": "77.6979238",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2A",
     "status": "uc",
     "type": "metro"
@@ -74,7 +74,7 @@
     "latitude": "12.9579796",
     "longitude": "77.7012454",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2A",
     "status": "uc",
     "type": "metro"
@@ -84,7 +84,7 @@
     "latitude": "12.9690368",
     "longitude": "77.7011184",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2A",
     "status": "uc",
     "type": "metro"
@@ -94,7 +94,7 @@
     "latitude": "12.9756588",
     "longitude": "77.6970849",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2A",
     "status": "uc",
     "type": "metro"
@@ -104,7 +104,7 @@
     "latitude": "12.9856993",
     "longitude": "77.6908883",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2A",
     "status": "uc",
     "type": "metro"
@@ -114,7 +114,7 @@
     "latitude": "12.9937771",
     "longitude": "77.6855187",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2A",
     "status": "uc",
     "type": "metro"
@@ -124,7 +124,7 @@
     "latitude": "13.0001292",
     "longitude": "77.6775377",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2A",
     "status": "uc",
     "type": "metro"
@@ -134,7 +134,7 @@
     "latitude": "13.0078096",
     "longitude": "77.6626458",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2B",
     "status": "uc",
     "type": "metro"
@@ -144,7 +144,7 @@
     "latitude": "13.0171042",
     "longitude": "77.6601071",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2B",
     "status": "uc",
     "type": "metro"
@@ -154,7 +154,7 @@
     "latitude": "13.022618",
     "longitude": "77.6472283",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2B",
     "status": "uc",
     "type": "metro"
@@ -164,7 +164,7 @@
     "latitude": "13.0261172",
     "longitude": "77.6383808",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2B",
     "status": "uc",
     "type": "metro"
@@ -174,7 +174,7 @@
     "latitude": "13.0325812",
     "longitude": "77.6297839",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2B",
     "status": "uc",
     "type": "metro"
@@ -184,7 +184,7 @@
     "latitude": "13.0400614",
     "longitude": "77.6244154",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2B",
     "status": "uc",
     "type": "metro"
@@ -194,7 +194,7 @@
     "latitude": "13.0411485",
     "longitude": "77.6182646",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2B",
     "status": "uc",
     "type": "metro"
@@ -204,7 +204,7 @@
     "latitude": "13.0436735",
     "longitude": "77.6039072",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2B",
     "status": "uc",
     "type": "metro"
@@ -214,7 +214,7 @@
     "latitude": "13.0437459",
     "longitude": "77.5932326",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2B",
     "status": "uc",
     "type": "metro"
@@ -224,7 +224,7 @@
     "latitude": "13.0568706",
     "longitude": "77.5936174",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2B",
     "status": "uc",
     "type": "metro"
@@ -234,7 +234,7 @@
     "latitude": "13.0710381",
     "longitude": "77.5930749",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2B",
     "status": "uc",
     "type": "metro"
@@ -244,7 +244,7 @@
     "latitude": "13.1191903",
     "longitude": "77.6097328",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2B",
     "status": "uc",
     "type": "metro"
@@ -254,7 +254,7 @@
     "latitude": "13.0885214",
     "longitude": "77.5961038",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2B",
     "status": "uc",
     "type": "metro"
@@ -264,7 +264,7 @@
     "latitude": "13.1026124",
     "longitude": "77.6002885",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2B",
     "status": "uc",
     "type": "metro"
@@ -274,7 +274,7 @@
     "latitude": "13.1521697",
     "longitude": "77.6206478",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2B",
     "status": "uc",
     "type": "metro"
@@ -284,7 +284,7 @@
     "latitude": "13.1692993",
     "longitude": "77.6319904",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2B",
     "status": "uc",
     "type": "metro"
@@ -294,7 +294,7 @@
     "latitude": "13.188573",
     "longitude": "77.6446773",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2B",
     "status": "uc",
     "type": "metro"
@@ -304,7 +304,7 @@
     "latitude": "13.198353",
     "longitude": "77.6860948",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2B",
     "status": "uc",
     "type": "metro"
@@ -314,7 +314,7 @@
     "latitude": "13.1980642",
     "longitude": "77.7123653",
     "line": "Blue",
-    "lineColor": "#89CFF0",
+    "lineColor": "#0096FF",
     "phase": "2B",
     "status": "uc",
     "type": "metro"
